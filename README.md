@@ -1,5 +1,6 @@
-Deep Learning Computer Vision Model using CNN
- Overview
+**Deep Learning Computer Vision Model using CNN**
+
+Overview
 This project implements a Convolutional Neural Network (CNN) for computer vision tasks. It demonstrates how deep learning can be applied to image classification, feature extraction, and pattern recognition. The repository is designed to be beginner-friendly yet technically robust, making it suitable for both academic learning and professional applications.
 
  Features
@@ -13,7 +14,7 @@ Performance Metrics: Accuracy, loss curves, and confusion matrix visualization.
 
 Extensibility: Easily adaptable to different datasets (e.g., CIFAR-10, MNIST, custom images).
 
- Tech Stack
+Tech Stack
 Python 3.x
 
 TensorFlow / Keras
